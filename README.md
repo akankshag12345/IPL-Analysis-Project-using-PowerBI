@@ -1,0 +1,1 @@
+Developed an IPL Data Analysis project (2008–2025) using Power BI, with data cleaning and transformation for accuracy. Built interactive dashboards showing year-wise statistics, top performers, team insights, and season trends, enabling data-driven decision-making through comprehensive match, player, and team analysis
